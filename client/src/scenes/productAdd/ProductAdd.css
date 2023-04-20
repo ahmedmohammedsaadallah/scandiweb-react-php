@@ -1,0 +1,28 @@
+.app__productadd .app__productadd-form {
+  margin-top: 5px;
+  padding: 30px 40px 0px 40px;
+  border-top: 2px solid #ccc;
+}
+.app__productadd .app__productadd-form form {
+  width: 30%;
+}
+.app__productadd .app__productadd-form .mb-3 {
+  display: flex;
+  justify-content: space-between;
+}
+.app__productadd .app__productadd-form .mb-3 label {
+  width: 20%;
+  text-align: left;
+  padding-top: 4px;
+}
+
+.app__productadd .app__productadd-form .mb-3 input,
+.app__productadd .app__productadd-form .mb-3 select {
+  width: 75%;
+}
+.custom-alert {
+  text-align: left;
+  width: 70%;
+  padding: 0;
+  border: 0;
+}

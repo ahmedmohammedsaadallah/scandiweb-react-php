@@ -1,0 +1,12 @@
+.app__product {
+  border: 2px solid #ccc;
+  position: relative;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.app__product .app__product-checkbox {
+  position: absolute;
+  left: 6%;
+  top: 6%;
+}

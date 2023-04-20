@@ -1,0 +1,15 @@
+{
+    "name": "ahmed/server",
+    "autoload": {
+        "psr-4": {
+            "Server\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ahmed Mohammed Saadallah",
+            "email": "ahmedmohammedsaadallah@gmail.com"
+        }
+    ],
+    "require": {}
+}
